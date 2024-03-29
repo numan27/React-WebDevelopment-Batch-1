@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-WebDevelopment-Batch-1/static/css/main.4b1c4cff.css",
+    "main.js": "/React-WebDevelopment-Batch-1/static/js/main.41511559.js",
+    "index.html": "/React-WebDevelopment-Batch-1/index.html",
+    "main.4b1c4cff.css.map": "/React-WebDevelopment-Batch-1/static/css/main.4b1c4cff.css.map",
+    "main.41511559.js.map": "/React-WebDevelopment-Batch-1/static/js/main.41511559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1c4cff.css",
+    "static/js/main.41511559.js"
+  ]
+}
