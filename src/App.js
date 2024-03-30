@@ -4,6 +4,8 @@ import Home from "./pages/Home" ;
 import About from "./pages/About" ;
 import Contact from "./pages/Contact" ;
 import Navbar from "./components/Navbar"
+// import "../src/assets/css/App.css"
+import "../src/assets/css/styles.css"
 
 function App() {
   return (
